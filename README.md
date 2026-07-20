@@ -154,4 +154,3 @@ Aspiring SOC Analyst | Cybersecurity Enthusiast
 
 ---
 
-⭐ If you found this project useful, consider giving it a Star!# SafeLine-WAF-Home-Lab
