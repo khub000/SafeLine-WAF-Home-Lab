@@ -1,0 +1,42 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env/
+.env.*
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Certificates (Optional)
+*.crt
+*.key
+
+# Apache Logs
+logs/
+access.log
+error.log
